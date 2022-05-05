@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"account"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"auction_functionality"},{"l":"exceptions"},{"l":"gui"},{"l":"nfts"}];updateSearchResults();
